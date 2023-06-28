@@ -25,6 +25,12 @@ main {
     width: 100vw;
 }
 
+header, nav, menu,  h1, a {
+    text-align: center;
+    color: white;
+    padding: 10px;
+}
+
 section#login {
     position: absolute;
     top: 50%;
